@@ -1,7 +1,4 @@
-#include<iostream>
-#include<string.h>
-#include<stdlib.h>
-
+#include<bits/stdc++.h>
 using namespace std;
 
 class book	{
